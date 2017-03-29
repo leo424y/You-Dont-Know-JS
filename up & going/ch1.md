@@ -1,3 +1,28 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [You Don't Know JS: Up & Going](#you-dont-know-js-up-going)
+- [Chapter 1: Into Programming](#chapter-1-into-programming)
+	- [Code](#code)
+		- [Statements](#statements)
+		- [Expressions](#expressions)
+		- [Executing a Program](#executing-a-program)
+	- [Try It Yourself](#try-it-yourself)
+		- [Output](#output)
+		- [Input](#input)
+	- [Operators](#operators)
+	- [Values & Types](#values-types)
+		- [Converting Between Types](#converting-between-types)
+	- [Code Comments](#code-comments)
+	- [Variables](#variables)
+	- [Blocks](#blocks)
+	- [Conditionals](#conditionals)
+	- [Loops](#loops)
+	- [Functions](#functions)
+		- [Scope](#scope)
+	- [Practice](#practice)
+	- [Review](#review)
+
+<!-- /TOC -->
 # You Don't Know JS: Up & Going
 # Chapter 1: Into Programming
 
